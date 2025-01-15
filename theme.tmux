@@ -6,6 +6,7 @@ tmux set -g message-style 'bg=blue fg=default'
 tmux set -g message-command-style 'fg=white bg=black'
 
 # panes
+#
 tmux set -g pane-border-style 'fg=black,bg=black'
 tmux set -g pane-active-border-style 'fg=blue'
 
